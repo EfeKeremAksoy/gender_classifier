@@ -10,5 +10,5 @@ Features:
 3. Gender classification using advanced convolutional neural networks (CNN)
 
    
-Prerequisites
+Prerequisites:
 Matlabs R2023b
