@@ -1,6 +1,6 @@
 # gender_classifier
 
-Overview
+Overview:
 This project provides a solution for gender classification using images. It takes an image as input and uses machine learning algorithms to classify the gender of the individual in the picture.
 
 Features:
