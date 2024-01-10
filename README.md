@@ -1,7 +1,7 @@
 # gender_classifier
 
 Overview:
-This project provides a solution for gender classification using images. It takes an image as input and uses machine learning algorithms to classify the gender of the individual in the picture.
+This project provides a solution for gender classification using images. It takes an image as input and uses machine learning algorithms to classify the gender of the individual in the picture. Has a success rate of 95%.
 
 Features:
 
@@ -12,3 +12,6 @@ Features:
    
 Prerequisites:
 Matlabs R2023b
+
+
+If you have any inquiries about the program let me know: ekeremaksoy@gmail.com
